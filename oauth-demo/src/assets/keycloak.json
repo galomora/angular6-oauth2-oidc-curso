@@ -1,0 +1,11 @@
+{
+  "realm": "master",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "angular-oauth-demo",
+  "credentials": {
+    "secret": "2dc861da-38e4-476c-8cb6-14f579fe6504"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}
